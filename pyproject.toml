@@ -1,0 +1,5 @@
+[project]
+name = "auto-company"
+version = "0.1.0"
+description = "🤖 A fully autonomous AI company that runs 24/7. 14 AI agents (Bezos, Munger, DHH...) brainstorm ideas, write code, deploy products & make money — no human in the loop. Powered by Claude Code."
+requires-python = ">=3.10"
